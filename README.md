@@ -1,7 +1,7 @@
 ### Hey! I'm Aaron. Welcome to my GitHub profile 😄
 
 - **Pronouns:** He/Him
-- **Software Developer** at [Otto Car](https://ottocar.co.uk/)
+- **Software Developer** at [Primer](https://primer.io). Previously at [Otto Car](https://ottocar.co.uk/)
 - **Ex-Support Engineer** at [SV Health Investors](https://svhealthinvestors.com/) and [MapleBlue](http://mapleblue.com/)
 
 <!--
