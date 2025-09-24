@@ -1,7 +1,7 @@
 ### Hey! I'm Aaron. Welcome to my GitHub profile 😄
 
 - **Pronouns:** He/Him
-- **Backend** at [Primer](https://primer.io).
+- **Backend Engineer** at [Primer](https://primer.io)
 
 <!--
 **aarontraynor/aarontraynor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
