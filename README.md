@@ -1,8 +1,7 @@
 ### Hey! I'm Aaron. Welcome to my GitHub profile 😄
 
 - **Pronouns:** He/Him
-- **Software Developer** at [Primer](https://primer.io). Previously at [Otto Car](https://ottocar.co.uk/)
-- **Ex-Support Engineer** at [SV Health Investors](https://svhealthinvestors.com/) and [MapleBlue](http://mapleblue.com/)
+- **Backend** at [Primer](https://primer.io).
 
 <!--
 **aarontraynor/aarontraynor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
